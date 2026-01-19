@@ -72,3 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Plugin Files
+Content/Survival_Character/*
+Content/Asian_Village/*
+Content/Construction_VOL1/*
