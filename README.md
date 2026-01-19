@@ -23,7 +23,7 @@ Key learning outcomes include:
 
 ## Engine & Tools
 
-- **Game Engine:** Unreal Engine 5 (Updated for UE 5.6)
+- **Game Engine:** Unreal Engine 5.7.1
 - **Programming Language:** C++
 - **Platform:** PC (Development)
 
@@ -42,7 +42,19 @@ The following free assets were used in this project:
 3. **Stylized Eastern Village**  
    https://fab.com/s/77cc7df74a61
 
+Due to GitHub repository size limitations, the following assets are **NOT included** in this repository and **must be downloaded separately** before opening the project in Unreal Engine.
+After downloading, import the assets into the Unreal Engine project using the **Content Drawer** or **Add Feature or Content Pack** options as appropriate.
 All assets are used strictly for educational and non-commercial purposes as part of the course project.
+
+---
+
+## Getting Started
+
+1. Clone the repository.
+2. Open the project using **Unreal Engine 5.7.1**.
+3. Download and import all required assets listed above.
+4. Generate Visual Studio project files if prompted.
+5. Build and run the project from the Unreal Editor.
 
 ---
 
