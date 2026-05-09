@@ -33,17 +33,19 @@ Key learning outcomes include:
 
 The following free assets were used in this project:
 
-1. **Survival Character FREE**  
+1. **Survival Character FREE** by **Arberry**  
    https://fab.com/s/1758229cc9b9
 
-2. **Construction Site VOL. 1 – Supply and Material Props**  
+2. **Construction Site VOL. 1 – Supply and Material Props** by **Dekogon Studios**  
    https://fab.com/s/071c72b78173
 
-3. **Stylized Eastern Village**  
+3. **Stylized Eastern Village** by **AleksandrIvanov**  
    https://fab.com/s/77cc7df74a61
 
 Due to GitHub repository size limitations, the following assets are **NOT included** in this repository and **must be downloaded separately** before opening the project in Unreal Engine.
+
 After downloading, import the assets into the Unreal Engine project using the **Content Drawer** or **Add Feature or Content Pack** options as appropriate.
+
 All assets are used strictly for educational and non-commercial purposes as part of the course project.
 
 ---
@@ -76,4 +78,6 @@ All third-party assets belong to their respective creators.
 
 - GameDev.tv for the course content and guidance  
 - Epic Games for Unreal Engine 5  
-- Asset creators on Fab for providing free resources
+- Arberry for the Survival Character FREE asset  
+- Dekogon Studios for the Construction Site VOL. 1 – Supply and Material Props asset  
+- AleksandrIvanov for the Stylized Eastern Village asset
