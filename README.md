@@ -1,6 +1,6 @@
 # Obstacle Assault
 
-Obstacle Assault is a third-person Unreal Engine 5 game project developed as part of the **Unreal Engine 5 C++ Game Development (Fully Updated in 5.7)** course by **GameDev.tv** on **Udemy**.  
+Obstacle Assault is a third-person Unreal Engine 5 game project developed as part of the **Unreal Engine 5 C++ Game Development (Fully Updated in 5.6)** course by **GameDev.tv** on **Udemy**.  
 The project focuses on learning core Unreal Engine concepts using C++, including gameplay mechanics, character control, physics interactions, and level design.
 
 Course Link:  
